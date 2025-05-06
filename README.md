@@ -1,4 +1,4 @@
-Project Repository for "An Analysis of Manual versus Feature Engineering.
+Project Repository for "An Analysis of Manual versus Feature Engineering."
 
 Members: Suneil Patel, Smit Patel, Cameron Rader.
 
